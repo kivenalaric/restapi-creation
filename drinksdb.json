@@ -1,0 +1,36 @@
+[
+    {
+        "name": "One Man Squad",
+        "description": "Inspired by the tradition of herbal drinks, it is an alcoholic blend, with the flavours of african hers and fruits, combined to give a refreshing bitter-sweet taste",
+        "imageUrl": "https://shop.prestonsliquors.co.za/wp-content/uploads/packshots/170211.png",
+        "ingredients": [
+            "Caramel",
+            "Sweet Corn",
+            "Apple",
+            "Honey",
+            "Custard",
+            "Nutmeg",
+            "Oak",
+            "Creamy Toffee",
+            "Ginger",
+            "Vanilla",
+            "Dark Stone Fruits",
+            "Cola"
+        ],
+        "userId": 101,
+        "id": 1677151863141
+    },
+    {
+        "name": "Orijin",
+        "description": "Inspired by the tradition of herbal drinks, it is an alcoholic blend, with the flavours of african hers and fruits, combined to give a refreshing bitter-sweet taste",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWdKqVSRjbla6FZxeT2oGjPLVXsratYpZ7_A&usqp=CAU",
+        "ingredients": [
+            "water",
+            "alcohol",
+            "sugar",
+            "plant extract (kola nut, prune, oakwood, bitter orange peel, wormwood)"
+        ],
+        "userId": 104,
+        "id": 1677157055614
+    }
+]
